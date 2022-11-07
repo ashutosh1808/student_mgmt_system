@@ -18,9 +18,4 @@ To execute this project run
   java -cp mysqljava.jar;. Sms
 ```
 
-To create the tables, run
-
-```bash
-  java -cp mysqljava.jar;. Sms
-```
-
+To create the tables, run the script.sql file
